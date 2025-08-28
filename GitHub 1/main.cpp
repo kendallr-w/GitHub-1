@@ -1,4 +1,4 @@
-#include<i0stream>
+#include<iostream>
 
 int main{}
 {
