@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main{}
+int main(}
 {
 	std::cout << "hello world. "\n;// version control
 	std::cout << "dqwdqwdqdqd.\n";// version control
