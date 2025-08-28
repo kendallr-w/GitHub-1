@@ -2,9 +2,9 @@
 
 int main{}
 {
-	std::cout << "hello world. "\n;/ version control
+	std::cout << "hello world. "\n;// version control
 	std::cout << "dqwdqwdqdqd.\n";// version control
-	std::cout << "dwdqwdqdqdqwdqd.\n"
+	std::cout << "dwdqwdqdqdqwdqd.\n";
 
 	// this is just a message.
 
